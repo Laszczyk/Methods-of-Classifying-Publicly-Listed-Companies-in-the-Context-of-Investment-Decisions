@@ -29,8 +29,8 @@ Sprawdzenie, czy modele uczenia maszynowego (XGBoost, LightGBM, Random Forest) p
 ## Instalacja
 
 ```bash
-git clone https://github.com/Laszczyk/GPW-return-prediction.git
-cd [GPW-return-prediction]
+git clone [https://github.com/Laszczyk/GPW-return-prediction.git](https://github.com/Laszczyk/Methods-of-Classifying-Publicly-Listed-Companies-in-the-Context-of-Investment-Decisions)
+cd [Methods-of-Classifying-Publicly-Listed-Companies-in-the-Context-of-Investment-Decisions]
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

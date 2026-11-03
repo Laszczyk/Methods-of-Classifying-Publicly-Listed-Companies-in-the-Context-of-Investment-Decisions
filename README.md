@@ -2,7 +2,7 @@
 
 Kod do pracy magisterskiej **„Predykcja 63-sesyjnych zwrotów spółek GPW: metodyka, wyniki i wnioski”**.
 
-**Autor:** [Imię i nazwisko] · **Uczelnia / kierunek:** [uzupełnij] · **Rok:** 2026
+**Autor:** Jakub Laszczyk · **Akademia Górniczo Hutnicza w Krakowie / kierunek:** Informatyka i Ekonometria · **Rok:** 2026
 
 ## Cel pracy
 
@@ -29,8 +29,8 @@ Sprawdzenie, czy modele uczenia maszynowego (XGBoost, LightGBM, Random Forest) p
 ## Instalacja
 
 ```bash
-git clone https://github.com/[login]/[nazwa-repozytorium].git
-cd [nazwa-repozytorium]
+git clone https://github.com/Laszczyk/GPW-return-prediction.git
+cd [GPW-return-prediction]
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -100,8 +100,8 @@ Wyniki zależą od ziarna (`--seed`), wersji bibliotek i liczby wątków (`--job
 
 ## Cytowanie
 
-[Nazwisko, I.] (2026). *Predykcja 63-sesyjnych zwrotów spółek GPW: metodyka, wyniki i wnioski*. Praca magisterska, [uczelnia].
+[Laszczyk Jakub] (2026). *Predykcja 63-sesyjnych zwrotów spółek GPW: metodyka, wyniki i wnioski*. Praca magisterska, [uczelnia].
 
 ## Licencja
 
-[np. MIT dla kodu]. Praca magisterska i dane podlegają zasadom uczelni i dostawców danych.
+Praca magisterska i dane podlegają zasadom uczelni i dostawców danych.
